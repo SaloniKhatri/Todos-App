@@ -1,6 +1,6 @@
 {
   "name": "todos-app",
-  "homepage": "https://SaloniKhatri.github.io/Todos-App",
+  "homepage": "https://SaloniKhatri.github.io/TodosApp",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -33,12 +33,12 @@
   "main": "eslint.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SaloniKhatri/Todos-App.git"
+    "url": "git+https://github.com/SaloniKhatri/TodosApp.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SaloniKhatri/Todos-App/issues"
+    "url": "https://github.com/SaloniKhatri/TodosApp/issues"
   }
 }
